@@ -1,6 +1,8 @@
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/georust/proj/test.yml?branch=main)
 # PROJ
 
+**This fork pulls in the original repo's [PR 176](https://github.com/georust/proj/pull/176) to add 3d transformations. It's just a fork of @PaulWagener's fork with that branch merged to `main`.**
+
 Coordinate transformation via bindings to the [PROJ](https://proj.org) v9.4 API.
 
 Two coordinate transformation operations are currently provided: _projection_ (and inverse
